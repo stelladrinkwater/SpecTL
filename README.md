@@ -1,5 +1,5 @@
 
-# Spectogram-to-STL Converter
+# spectogram-to-stl Converter
 
 **turns audio spectrograms into 3D models**
 
